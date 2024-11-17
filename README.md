@@ -74,7 +74,7 @@ python -m unittest discover
 Проверьте версию Python, выполнив команду в терминале:
 
 ```
-python3 --version
+python --version
 ```
 
 Если Python не установлен, загрузите его с официального сайта: 
