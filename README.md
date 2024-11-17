@@ -65,3 +65,21 @@ python -m unittest test_main.py
 python -m unittest discover
 ```
 
+
+
+# Важно
+
+Чтобы запустить CLI необходим Python версии 3.10 и выше. 
+
+Проверьте версию Python, выполнив команду в терминале:
+
+```
+python3 --version
+```
+
+Если Python не установлен, загрузите его с официального сайта: 
+
+[Python](https://www.python.org/)
+
+
+
