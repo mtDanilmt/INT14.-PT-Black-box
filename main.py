@@ -208,7 +208,6 @@ def main() -> None:
     parser.add_argument('--version', action='store_true', help='Показать информацию о версии и выйти')
     args, unknown = parser.parse_known_args()
 
-    # Проверка на дополнительные команды
     if args.help or (args.url and args.url.lower() in {'list'}):
         display_help()
         sys.exit(0)
